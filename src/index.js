@@ -5,6 +5,5 @@ import Square from "./square";
 import Board from "./board";
 import Game from "./game";
 
-
 const root = ReactDOM.createRoot(document.getElementById("root"));
-root.render(<Game />);
+root.render(<Game />); //renders Game Component
